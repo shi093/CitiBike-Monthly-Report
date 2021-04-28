@@ -1,5 +1,4 @@
 # CitiBike-Monthly-Report
-Automate Data Preparation using Google Colab: Read and Process Citi Bike Data in Zip File
 
 Refer to this Medium article that breaks down the code step by step:
 
